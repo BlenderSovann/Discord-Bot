@@ -36,4 +36,4 @@ async def book(ctx):
 
     await ctx.send(f'Go to: https://discord.gg/Gg8sHj79Y8')
 
-client.run('ODg2MjI5NjI2OTkxNTQ2NDUx.YTyjqA.gwjRfyoRHYXaH39fx8UL3bpLcaI')
+client.run(your token)
