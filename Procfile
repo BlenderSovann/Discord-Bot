@@ -1,0 +1,1 @@
+workor: python main.py
